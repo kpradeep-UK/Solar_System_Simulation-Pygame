@@ -20,4 +20,4 @@ This is a Pygame-based simulation of the solar system, showing the orbits of the
   pip install -r requirements.txt
 
 4.**Run the application:**
-  python solar_system.py
+  python SSS.py
