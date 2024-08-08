@@ -11,7 +11,7 @@ This is a Pygame-based simulation of the solar system, showing the orbits of the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/solar-system-simulation.git
+   git clone https://github.com/kpradeep-UK/solar-system-simulation.git
    
 2. **Navigate to the project directory:**
   cd solar-system-simulation
